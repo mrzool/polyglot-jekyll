@@ -1,0 +1,16 @@
+name: 
+  en: Polyglot Jekyll
+  de: Polyglottes Jekyll
+  it: Jekyll poliglotta
+description: 
+  en: Plugin-free multi-language Jekyll websites
+  de: Plugin-freie vielsprachige Jekyll Webseiten
+  it: Siti multilingue in Jekyll, senza plugin.
+footer:
+  en: An open-source project by [mrzool](http://mrzool.cc)
+  de: Ein open-source Projekt von [mrzool](http://mrzool.cc)
+  it: Un progetto open-source di [mrzool](http://mrzool.cc)
+exclude: [README.md]
+permalink: pretty
+repository: mrzool/jekyll-polyglot
+baseurl: /polyglot-jekyll
