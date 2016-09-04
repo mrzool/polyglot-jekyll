@@ -1,7 +1,7 @@
 ---
 layout: default
-language: it
 title: Home
+language: it
 nav-order: 1
 see-on-github: Vedi su GitHub
 tweet-this: Twittalo

@@ -1,7 +1,7 @@
 ---
 layout: default
-language: de
 title: Startseite
+language: de
 nav-order: 1
 see-on-github: Auf GitHub sehen
 tweet-this: Twittern

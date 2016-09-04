@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Infos
 language: de
 nav-order: 2
 title: Infos

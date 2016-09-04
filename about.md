@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 language: en
 nav-order: 2
 title: About
