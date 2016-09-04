@@ -12,5 +12,5 @@ footer:
   it: Un progetto open-source di [mrzool](http://mrzool.cc)
 exclude: [README.md]
 permalink: pretty
-repository: mrzool/jekyll-polyglot
+repository: mrzool/polyglot-jekyll
 baseurl: /polyglot-jekyll
