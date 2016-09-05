@@ -2,8 +2,8 @@
 layout: default
 title: Info
 language: it
+handle: /about
 nav-order: 2
-title: Info
 ---
 
 Non c'è bisogno di usare un CMS per sviluppare un sito multilingue, Jekyll è perfettamente in grado di gestire la cosa.

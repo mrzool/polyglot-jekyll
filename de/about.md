@@ -2,8 +2,8 @@
 layout: default
 title: Infos
 language: de
+handle: /about
 nav-order: 2
-title: Infos
 ---
 
 Es ist nicht unbedingt nötig, ein CMS zu verwenden, um ein vielsprachiges Website zu erstellen, Jekyll kann damit schon gut umgehen.

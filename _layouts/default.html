@@ -28,10 +28,9 @@
         <a class="de" href="{{ site.baseurl | append: "/de" }}">DE</a>
         <a class="it" href="{{ site.baseurl | append: "/it" }}">IT</a>
       {% else %}
-        {% assign name = page.url | split: '/' | last %}
-        <a class="en" href="{{ site.baseurl | append: "/" | append: name }}">EN</a>
-        <a class="de" href="{{ site.baseurl | append: "/de/" | append: name }}">DE</a>
-        <a class="it" href="{{ site.baseurl | append: "/it/" | append: name }}">IT</a>
+        <a class="en" href="{{ site.baseurl | append: page.handle }}">EN</a>
+        <a class="de" href="{{ site.baseurl | append: "/de" | append: page.handle }}">DE</a>
+        <a class="it" href="{{ site.baseurl | append: "/it" | append: page.handle }}">IT</a>
       {% endif %}
     </nav>
 
