@@ -146,7 +146,17 @@ On every page other than index pages, every switch link gets the language *and* 
 
 **Note**: *In navigation and language switch, you only need the `prepend: site.baseurl` bit if your site that doesn’t sit at the root of the domain. See [this](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/) to learn why.*
 
+---
+
 This wraps up our brief excursus of Polyglot Jekyll. The approach should be solid enough and easily extensible to more complex websites. The next time you need to build a multilingual website, give it a shot. You might find that you don't need PHP, CMS's and databases to deal with it after all.
 
-### License
+## Resources
+
+- Still new to Jekyll? The [official docs](https://jekyllrb.com/docs/home/) are the best place to start.
+- When you feel a bit more comfortable, this [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/) put together by [CloudCannon](http://cloudcannon.com/) is the go-to reference for all things Jekyll.
+- YAML is a flexible and powerful syntax to structure your data. Here's the [best overview](https://learnxinyminutes.com/docs/yaml/) available.
+- To go in-depth into the Liquid templating engine, check out Shopify's [official reference](https://help.shopify.com/themes/liquid) or these [docs](https://shopify.github.io/liquid/).
+
+
+## License
 [MIT](LICENSE)
