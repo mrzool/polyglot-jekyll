@@ -148,7 +148,7 @@ On every page other than index pages, every switch link gets the language *and* 
 
 ---
 
-This wraps up our brief excursus of Polyglot Jekyll. Make sure to clone this repo and experiment with it locally to get a hang of how everything works together. 
+This wraps up our brief excursus of Polyglot Jekyll. Make sure to clone this repo and experiment with it locally to get a hang of how everything works together. If you want to check out the final result, have a look at the [online demo](http://mrzool.cc/polyglot-jekyll/).
 
 The approach should be solid enough and easily extensible to more complex websites. The next time you need to build a multilingual website, give it a shot. You might find that you don't need PHP, CMS's and databases to deal with it after all.
 
