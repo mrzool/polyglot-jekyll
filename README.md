@@ -53,7 +53,7 @@ We put content that needs to present across the whole website (like the one you 
 ```yml
 # In _config.yml
 description: 
-  en: Plugin-free multi-language Jekyll websites
+  en: Plugin-free multilanguage Jekyll websites
   de: Plugin-freie vielsprachige Jekyll Webseiten
   it: Siti multilingue in Jekyll, senza plugin.
 ```
